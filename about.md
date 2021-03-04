@@ -3,13 +3,12 @@ layout: page
 title: About
 ---
 
-Some Markdown content describing your site.
+this gh pages site was created to explore blogging with jekyll using gh. 
 
 ## About About Pages
 
-The About page is a common convention found on websites.
-It is your opportunity to let us know all the details "about" your project:
+what you will find here:
 
-- focus and topic area
-- people involved
-- code and projects used
+- thinking out loud posts
+- no bullying, no shame, no deprecation of self & others
+- posts regarding my interests in gaming, fashion, & etc.
